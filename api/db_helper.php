@@ -1,10 +1,10 @@
 <?php
 	class DB {
 
-		private $host = "localhost";
-		private $user = "root";
-		private $password = "root";
-		private $database = "fitsine";
+		private $host = "mysql.hostinger.in";
+		private $user = "u900755815_onkar";
+		private $password = "fitsine@mysql";
+		private $database = "u900755815_ftsn";
 		private $connection = false;
 		public $mysqli;
 		private $salt = "$6056#";
